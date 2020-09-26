@@ -4,11 +4,11 @@
 
 # 安装
 
-git clone xxx
+git clone git@github.com:xtccc/python_decode.git
 
 pip install  pyperclip
 
-sudo chomod +x python_re_匹配unicode.py
+sudo chmod +x python_re_匹配unicode.py
 
 # 使用
 
