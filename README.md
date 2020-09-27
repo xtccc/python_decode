@@ -13,3 +13,7 @@ sudo chmod +x python_re_匹配unicode.py
 # 使用
 
 ./python_re_匹配unicode.py
+
+
+# 带解决的vnc内vscode思路
+用is_rare_name函数解决乱码的判断，加以gbk的解码即可
