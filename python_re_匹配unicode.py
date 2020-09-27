@@ -2,6 +2,7 @@
 import pyperclip
 import re
 import time
+print('脚本开始运行')
 while True:
     tmp_value = pyperclip.paste()   # 读取剪切板复制的内容
     pattern = r'\\u[a-z,A-Z,0-9][a-z,A-Z,0-9][a-z,A-Z,0-9][a-z,A-Z,0-9]'
