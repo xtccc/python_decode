@@ -21,3 +21,8 @@ while True:
 
 
 #\u672a\u627e\u5230\u547d\u4ee4ssssss\u672a\u627essss\u672a\u627essss\u672a\u627essss\u672a\u627e
+
+
+#virtualenv vnc_decode
+#.\vnc_decode\Scripts\activate
+#pyinstaller.exe --clean -F -n vnc_decode .\python_re_匹配unicode.py

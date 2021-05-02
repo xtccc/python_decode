@@ -1,3 +1,4 @@
 build/
-dist/
+#dist/
 .vscode/
+dist/!vnc_decode.exe
